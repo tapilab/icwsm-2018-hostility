@@ -1,0 +1,15 @@
+gensim==1.0.0
+ipython==5.3.0
+ipython-genutils==0.1.0
+jupyter==1.0.0
+jupyter-client==5.0.0
+jupyter-console==5.1.0
+jupyter-core==4.3.0
+jupyterhub==0.7.2
+matplotlib==2.0.0
+numpy==1.13.3
+pandas==0.21.1
+scikit-learn==0.18.2
+scipy==0.18.1
+seaborn==0.7.1
+urllib3==1.20
