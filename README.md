@@ -1,4 +1,4 @@
-# icwsm-2018-hostility
+### Forecasting the presence and intensity of hostility on Instagram using linguistic and social features
 
 This notebook provides code to reproduce the primary figures and tables in the paper
 
