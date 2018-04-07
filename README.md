@@ -26,3 +26,10 @@ When you're done running the notebook, you can deactivate the virtualenv and rem
 
 6. `deactivate`  
 7. `rm -rf icwsm`
+
+
+### Authors
+- [Ping Liu](https://mypages.iit.edu/~pliu19)
+- [Josh Guberman](https://josh.guberman.io/)
+- [Libby Hemphill](http://www.libbyh.com/)
+- [Aron Culotta](cs.iit.edu/~culotta)
